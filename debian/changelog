@@ -1,3 +1,15 @@
+hello (2.10-1ubuntu7) bionic; urgency=low
+
+  * davidwang test for new build 2
+
+ -- davidwang <davidwang@davidwang-VirtualBox>  Mon, 31 May 2021 16:03:47 +0800
+
+hello (2.10-1ubuntu6) bionic; urgency=low
+
+  * davidwang test for new build
+
+ -- davidwang <davidwang@davidwang-VirtualBox>  Mon, 31 May 2021 15:54:22 +0800
+
 hello (2.10-1ubuntu5) bionic; urgency=low
 
   * davidwang modify the new package name
